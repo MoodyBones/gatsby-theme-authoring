@@ -5,6 +5,8 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/mel/Documents/web/lets-play/gatsby/gatsby-theme-events/.cache/dev-404-page.js")))
+  "component---src-templates-events-js": hot(preferDefault(require("/Users/mel/Documents/web/lets-play/gatsby/gatsby-theme-authoring/gatsby-theme-events/src/templates/events.js"))),
+  "component---src-templates-event-js": hot(preferDefault(require("/Users/mel/Documents/web/lets-play/gatsby/gatsby-theme-authoring/gatsby-theme-events/src/templates/event.js"))),
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/mel/Documents/web/lets-play/gatsby/gatsby-theme-authoring/gatsby-theme-events/.cache/dev-404-page.js")))
 }
 
