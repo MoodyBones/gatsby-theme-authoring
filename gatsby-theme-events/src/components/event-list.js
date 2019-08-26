@@ -1,12 +1,11 @@
 import React from 'react'
 import { Link } from 'gatsby'
-
 const EventList = ({ events }) => (
   <>
-    <h1>Upcoming Events</h1>
+    <h2>Upcoming Events</h2>
     <ul>
       {events.map(event => (
-        <li key={event.is}>
+        <li key={event.id}>
           <strong>
             <Link to={event.slug}>{event.name}</Link>
           </strong>
