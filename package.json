@@ -4,13 +4,5 @@
     "gatsby-theme-events",
     "site"
   ],
-  "dependencies": {
-    "@emotion/core": "^10.0.16",
-    "@emotion/styled": "^10.0.15",
-    "@mdx-js/react": "^1.4.0",
-    "add": "^2.0.6",
-    "gatsby-theme-events": "^1.0.0",
-    "gatsby-theme-ui": "^0.2.0",
-    "theme-ui": "^0.2.36"
-  }
+  "dependencies": {}
 }
