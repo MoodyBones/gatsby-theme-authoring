@@ -23,7 +23,7 @@ export const theme = {
       color: 'gray.2',
       fontFamily: 'body',
       fontSizes: 1,
-      lineHeight: 'body',
+      lineHeight: 'body'
     },
     Header: {
       backgroundColor: 'primary',
